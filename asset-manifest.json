@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.03ee8309.css",
-    "main.js": "/static/js/main.586af3c2.js",
-    "static/media/consultation.svg": "/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
-    "static/media/Web-developer.svg": "/static/media/Web-developer.ee136cd1115acd4a9f08bd2bf7705802.svg",
-    "static/media/adminImg.svg": "/static/media/adminImg.8a1fbbc2a42763f3aab7449b9e04df8e.svg",
-    "static/media/hosting.svg": "/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
-    "static/media/app.svg": "/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
-    "static/media/kws.png": "/static/media/kws.877da8110793af2c3d27.png",
-    "static/media/web-dev.svg": "/static/media/web-dev.5719e565bb2509cbe09b04bea839efbb.svg",
-    "static/media/web.svg": "/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
-    "static/media/footer.svg": "/static/media/footer.918db87a5fa73a13416a.svg",
-    "index.html": "/index.html",
-    "static/media/hero-bg.svg": "/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
-    "main.03ee8309.css.map": "/static/css/main.03ee8309.css.map",
-    "main.586af3c2.js.map": "/static/js/main.586af3c2.js.map"
+    "main.css": "/manpower_consultancy/static/css/main.9405839e.css",
+    "main.js": "/manpower_consultancy/static/js/main.7ddef439.js",
+    "static/media/consultation.svg": "/manpower_consultancy/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/Web-developer.svg": "/manpower_consultancy/static/media/Web-developer.ee136cd1115acd4a9f08bd2bf7705802.svg",
+    "static/media/adminImg.svg": "/manpower_consultancy/static/media/adminImg.8a1fbbc2a42763f3aab7449b9e04df8e.svg",
+    "static/media/hosting.svg": "/manpower_consultancy/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/manpower_consultancy/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/kws.png": "/manpower_consultancy/static/media/kws.877da8110793af2c3d27.png",
+    "static/media/web-dev.svg": "/manpower_consultancy/static/media/web-dev.5719e565bb2509cbe09b04bea839efbb.svg",
+    "static/media/web.svg": "/manpower_consultancy/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "static/media/footer.svg": "/manpower_consultancy/static/media/footer.918db87a5fa73a13416a.svg",
+    "index.html": "/manpower_consultancy/index.html",
+    "static/media/hero-bg.svg": "/manpower_consultancy/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.9405839e.css.map": "/manpower_consultancy/static/css/main.9405839e.css.map",
+    "main.7ddef439.js.map": "/manpower_consultancy/static/js/main.7ddef439.js.map"
   },
   "entrypoints": [
-    "static/css/main.03ee8309.css",
-    "static/js/main.586af3c2.js"
+    "static/css/main.9405839e.css",
+    "static/js/main.7ddef439.js"
   ]
 }
