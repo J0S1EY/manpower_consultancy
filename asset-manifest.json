@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/manpower_consultancy/static/css/main.9405839e.css",
-    "main.js": "/manpower_consultancy/static/js/main.7ddef439.js",
+    "main.js": "/manpower_consultancy/static/js/main.191bc964.js",
     "static/media/consultation.svg": "/manpower_consultancy/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
     "static/media/Web-developer.svg": "/manpower_consultancy/static/media/Web-developer.ee136cd1115acd4a9f08bd2bf7705802.svg",
     "static/media/adminImg.svg": "/manpower_consultancy/static/media/adminImg.8a1fbbc2a42763f3aab7449b9e04df8e.svg",
@@ -14,10 +14,10 @@
     "index.html": "/manpower_consultancy/index.html",
     "static/media/hero-bg.svg": "/manpower_consultancy/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
     "main.9405839e.css.map": "/manpower_consultancy/static/css/main.9405839e.css.map",
-    "main.7ddef439.js.map": "/manpower_consultancy/static/js/main.7ddef439.js.map"
+    "main.191bc964.js.map": "/manpower_consultancy/static/js/main.191bc964.js.map"
   },
   "entrypoints": [
     "static/css/main.9405839e.css",
-    "static/js/main.7ddef439.js"
+    "static/js/main.191bc964.js"
   ]
 }
