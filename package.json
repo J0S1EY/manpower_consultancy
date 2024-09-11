@@ -2,7 +2,7 @@
   "name": "manpower-consultancy",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://j0s1ey.github.io/manpower_consultancy/",
+  "homepage":"",
   "dependencies": {
     "@headlessui/react": "^1.7.19",
     "@heroicons/react": "^2.1.5",
